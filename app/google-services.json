@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1006522798000",
+    "project_id": "uasamub-skillacademy-ti7a",
+    "storage_bucket": "uasamub-skillacademy-ti7a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1006522798000:android:4505ec63f328075cd5d075",
+        "android_client_info": {
+          "package_name": "com.asus.uasamub_skillacademy_ti7a"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1006522798000-le0trejqvqa2nbogk70eemu4htisqeg9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDrEXj2EWHd86oGVSLllPU6MFcERNm5mYc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1006522798000-le0trejqvqa2nbogk70eemu4htisqeg9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
